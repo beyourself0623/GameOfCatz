@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnitTestLinkedList" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-10-17T16:32:06" hostname="HangdeMacBook-Air.local" time="0.003">
+  <properties/>
+  <testcase name="testPeekFirst" classname="UnitTestLinkedList" time="0.0"/>
+  <testcase name="testToString" classname="UnitTestLinkedList" time="0.001"/>
+  <testcase name="testRemoveFirst" classname="UnitTestLinkedList" time="0.0"/>
+  <testcase name="testInsertFirst" classname="UnitTestLinkedList" time="0.0"/>
+  <testcase name="testInsertLast" classname="UnitTestLinkedList" time="0.0"/>
+  <testcase name="testRemoveLast" classname="UnitTestLinkedList" time="0.0"/>
+  <testcase name="testPeekLast" classname="UnitTestLinkedList" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

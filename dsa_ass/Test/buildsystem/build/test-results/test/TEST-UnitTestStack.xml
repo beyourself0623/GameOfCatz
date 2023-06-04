@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnitTestStack" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-10-17T16:32:06" hostname="HangdeMacBook-Air.local" time="0.03">
+  <properties/>
+  <testcase name="testGetCount" classname="UnitTestStack" time="0.0"/>
+  <testcase name="testPop" classname="UnitTestStack" time="0.027"/>
+  <testcase name="testTop" classname="UnitTestStack" time="0.001"/>
+  <testcase name="testPush" classname="UnitTestStack" time="0.0"/>
+  <testcase name="testPrintStack" classname="UnitTestStack" time="0.001"/>
+  <testcase name="testIsFull" classname="UnitTestStack" time="0.0"/>
+  <testcase name="testIsEmpty" classname="UnitTestStack" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

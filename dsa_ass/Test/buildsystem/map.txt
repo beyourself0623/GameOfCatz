@@ -1,0 +1,4 @@
+name: Hang
+health: 0
+score: 30
+status: dead

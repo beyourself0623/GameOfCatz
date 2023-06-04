@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnitTestGraphVertex" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-10-17T16:32:06" hostname="HangdeMacBook-Air.local" time="0.001">
+  <properties/>
+  <testcase name="testSetNodeType" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testGetNodeType" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testGetLabel" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testGetValue" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testSetVisited" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testToString" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testGetVisited" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testClearVisited" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testSetLabel" classname="UnitTestGraphVertex" time="0.0"/>
+  <testcase name="testSetValue" classname="UnitTestGraphVertex" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

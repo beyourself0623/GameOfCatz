@@ -1,0 +1,4 @@
+Route 1(A,B)(B,E)(E,F)(F,C)(C,G)(G,D)(G,I)(I,H)(H,J) }206
+Route 2(A,B)(B,E)(E,F)(F,C)(C,G)(G,D)(G,I)(I,H)(I,J) }105
+
+

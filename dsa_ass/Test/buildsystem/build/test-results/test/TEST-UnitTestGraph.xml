@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnitTestGraph" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-10-17T16:32:06" hostname="HangdeMacBook-Air.local" time="0.025">
+  <properties/>
+  <testcase name="testGetTotalEdgeCount" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testAddEdge" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testAddEdgeType" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testDisplayMatrix" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testDeleteVertex" classname="UnitTestGraph" time="0.001"/>
+  <testcase name="testGetAdjacent" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testHasVertex" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testAddVertex" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testAddEdgeValue" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testGetEdgeValue" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testUpdateEdgeValue" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testUpdateNodeValue" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testGetVertexCount" classname="UnitTestGraph" time="0.001"/>
+  <testcase name="testGetVertex" classname="UnitTestGraph" time="0.0"/>
+  <testcase name="testIsAdjacent" classname="UnitTestGraph" time="0.001"/>
+  <testcase name="testDepthFirstSearch" classname="UnitTestGraph" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

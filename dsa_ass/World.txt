@@ -1,0 +1,29 @@
+Welcome to The World
+
+Total Node Type Count = 4
+
+Node: F	Value: 10
+Node: D	Value: 100
+Node: T	Value: 1
+Node: -	Value: 0
+
+
+Total Vertex Count = 4
+
+Vertex: A 	Value: 0
+Vertex: B 	Value: 1
+Vertex: C 	Value: 0
+Vertex: D 	Value: 0
+
+
+
+
+Vertex: Edge: EdgeLength:
+
+A	B	1
+A	C	1
+B	A	1
+B	C	1
+B	D	1
+
+

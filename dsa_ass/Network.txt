@@ -1,0 +1,45 @@
+Graph Network 
+
+
+Graph Matrix
+    B C 
+
+        
+
+B 0 0 0 
+
+C 0 0 0 
+
+Graph World
+Welcome to The World
+
+Total Node Type Count = 4
+
+Node: F	Value: -1
+Node: D	Value: 12
+Node: T	Value: 1
+Node: -	Value: 0
+
+
+Total Vertex Count = 3
+
+Vertex: null 	Value: 0
+Vertex: B 	Value: 1
+Vertex: C 	Value: 0
+Vertex: D 	Value: 0
+
+
+
+
+Vertex: Edge: EdgeLength:
+
+null	null	0
+null	null	0
+B	null	0
+B	null	0
+B	D	1
+
+
+Graph path
+
+
